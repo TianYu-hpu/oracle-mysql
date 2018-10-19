@@ -16,7 +16,7 @@
 	<properties>
 		
 		<!-- main version setting -->
-		<spring.version>4.1.9.RELEASE</spring.version>
+		<spring.version>4.3.17</spring.version>
 		<validator.version>5.2.4.Final</validator.version>
 		<druid.version>1.0.18</druid.version>
 
